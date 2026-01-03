@@ -1,5 +1,37 @@
-# 💫 About Me:
-🌸 Hi 👋, I’m npcWithSecrets.exe<br><br>CSE student | Full-Stack (MERN) Developer | AI Explorer<br>MERN Stack • Agentic AI • Prompt Engineering <br>🌀 *coding training arc in progress* 🌀  <br><br>💻About Me<br><br>I work with MERN stack (MongoDB, Express, React, Node.js)<br>Exploring Agentic AI systems & Prompt Engineering<br>Believe in slow learning, strong foundations — anime training arc mindset<br>I enjoy building projects that are simple, useful, and aesthetic<br><br>🛠️Currently<br><br>Working on: Full-stack & AI-assisted web projects<br>Learning: Agentic AI workflows, system design basics<br>Open to: Collaborations, beginner-friendly open source<br>Ask me about: MERN, full-stack , prompt design<br><br>How to reach me<br>✉️ Email: parkgrace279@gmail.com<br>
+<div align="center">
+
+🌸  
+# npcWithSecrets.exe  
+### soft vibes, serious building  
+
+☁️ CSE Student | Full-Stack (MERN) | AI Explorer  
+MERN • Agentic AI • Prompt Engineering  
+
+🌀 *coding training arc in progress* 🌀  
+
+</div>
+
+---
+
+## 💻 About Me
+- 🌱 Working with **MERN stack** (MongoDB, Express, React, Node.js)
+- 🤖 Exploring **Agentic AI systems & Prompt Engineering**
+- 🧠 Believe in *slow learning, strong foundations* — anime training arc mindset
+- ✨ Enjoy building projects that are **simple, useful, and aesthetic**
+
+---
+
+## 🛠️ Currently
+- 🔭 **Working on:** Full-stack & AI-assisted web projects  
+- 📚 **Learning:** Agentic AI workflows, system design basics  
+- 🤝 **Open to:** Collaborations, beginner-friendly open source  
+- 💬 **Ask me about:** MERN, full-stack, prompt design  
+
+---
+
+## 📫 How to reach me
+- ✉️ **Email:** `parkgrace279@gmail.com`
+
 
 
 ## 🌐 Socials:
