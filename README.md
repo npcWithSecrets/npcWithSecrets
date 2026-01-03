@@ -62,4 +62,9 @@ MERN • Agentic AI • Prompt Engineering
 ---
 [![](https://visitcount.itsvg.in/api?id=npcWithSecrets&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=npcWithSecrets&color=blue)
+
+</div>
+
